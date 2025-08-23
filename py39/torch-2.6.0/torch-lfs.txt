@@ -1,0 +1,2 @@
+nvidia_cudnn_cu12-9.1.0.70-py3-none-manylinux2014_x86_64.whl
+torch-2.6.0+cu124-cp39-cp39-linux_x86_64.whl
